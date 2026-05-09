@@ -1,5 +1,8 @@
 # SaaS Prototype: FastAPI + React + PostgreSQL + Redis
 
+## Author
+
+Developed by Gregorio Godin Jr.
 This is a runnable SaaS prototype with:
 
 - Backend: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis-ready configuration
