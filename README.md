@@ -3,6 +3,11 @@
 ## Author
 
 Developed by Gregorio Godin Jr.
+
+## UI Preview
+
+![SaaS Operations Dashboard](docs/images/saas-operations-dashboard.png)
+
 This is a runnable SaaS prototype with:
 
 - Backend: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis-ready configuration
