@@ -1,4 +1,4 @@
-# SaaS Prototype: FastAPI + React + PostgreSQL + Redis
+# SaaS Prototype: FastAPI + React + PostgreSQL + Redis + Docker 
 
 ## Author
 
